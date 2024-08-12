@@ -3,7 +3,7 @@ Gambiarra para fazer o GLPI autenticar no USP oAuth. Um dia vira plugin
 
 **Testado na versão 9.5.4 à 9.5.7 do GLPI**
 
-**Testado na versão 10.0.0** vide arquivo glpi10.rar
+**Testado na versão 10.0.0 à 10.0.16 vide arquivo glpi10.rar
 
 &nbsp;
 
